@@ -1,2 +1,2 @@
 rootProject.name='StockHelperCommon'
-include ':app'
+include ':common'
