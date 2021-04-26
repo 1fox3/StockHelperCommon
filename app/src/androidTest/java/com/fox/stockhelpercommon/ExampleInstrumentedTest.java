@@ -1,4 +1,4 @@
-package com.example.stockhelpercommon;
+package com.fox.stockhelpercommon;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.stockhelpercommon", appContext.getPackageName());
+        assertEquals("com.fox.stockhelpercommon", appContext.getPackageName());
     }
 }

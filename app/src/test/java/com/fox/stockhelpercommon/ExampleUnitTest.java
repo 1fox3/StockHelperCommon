@@ -1,4 +1,4 @@
-package com.example.stockhelpercommon;
+package com.fox.stockhelpercommon;
 
 import org.junit.Test;
 
